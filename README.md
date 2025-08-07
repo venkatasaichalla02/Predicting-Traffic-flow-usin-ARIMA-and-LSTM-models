@@ -15,7 +15,7 @@ The LSTM model showed the best performance (R² ≈ 0.72), outperforming ARIMA a
 
 ## 📊 Dataset
 
-We used the [Metro Interstate Traffic Volume dataset](https://www.kaggle.com/datasets/utkarshxy/metro-interstate-traffic-volume), which includes:
+I used the [Metro Interstate Traffic Volume dataset](https://www.kaggle.com/datasets/utkarshxy/metro-interstate-traffic-volume), which includes:
 
 * Hourly traffic volume
 * Weather data (temperature, rain, snow, etc.)
